@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pramodini 👋
 
-<!--
-**pramodinidandu/pramodinidandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate and an aspiring Data Analyst with an interest in working with data and finding meaningful insights from it.
 
-Here are some ideas to get you started:
+I enjoy learning new tools, solving problems, and creating dashboards that help turn raw data into useful information. I’m currently building my skills through hands-on projects and continuously exploring different areas of data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+💻 Power BI  
+💻 SQL  
+💻 Excel
+💻 Python  
+
+### Certifications
+🏅 Microsoft PL-300 Certified  
+🏅 Google Data Analytics Professional Certificate  
+
+### Currently Working On
+🌱 Building data analytics projects  
+📊 Improving Power BI and SQL skills  
+🚀 Growing my knowledge through practice and real-world datasets  
+
+Outside of learning and projects, I enjoy music, nature photography, and discovering new things.
+
+Thanks for visiting my profile!
