@@ -5,10 +5,10 @@ I'm a Computer Science graduate and an aspiring Data Analyst with an interest in
 I enjoy learning new tools, solving problems, and creating dashboards that help turn raw data into useful information. I’m currently building my skills through hands-on projects and continuously exploring different areas of data analytics.
 
 ### Skills & Tools
-💻 Power BI  
+💻 Excel  
 💻 SQL  
-💻 Excel 
-💻 Python  
+💻 Power BI  
+💻 Python 
 
 ### Certifications
 🏅 Microsoft PL-300 Certified  
