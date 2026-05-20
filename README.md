@@ -8,6 +8,7 @@ I enjoy learning new tools, solving problems, and creating dashboards that help 
 💻 Power BI  
 💻 SQL  
 💻 Excel
+
 💻 Python  
 
 ### Certifications
