@@ -7,8 +7,7 @@ I enjoy learning new tools, solving problems, and creating dashboards that help 
 ### Skills & Tools
 💻 Power BI  
 💻 SQL  
-💻 Excel
-
+💻 Excel 
 💻 Python  
 
 ### Certifications
